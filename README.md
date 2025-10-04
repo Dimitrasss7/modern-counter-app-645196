@@ -1,0 +1,1 @@
+# Modern Counter App  Beautiful counter application with gradient backgrounds and smooth animations.  ## Setup ```bash npm install npm run dev ```  ## Features - Interactive counter with +/- buttons - Gradient background - Smooth animations - Responsive design - TypeScript support  ## Tech Stack - React 18 - Vite - TypeScript - Tailwind CSS
